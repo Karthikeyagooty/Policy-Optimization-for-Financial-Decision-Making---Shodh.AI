@@ -1,0 +1,18 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+notebook
+PyPDF2
+torch
+torchvision
+tqdm
+d3rlpy
+kaggle
+joblib
+ipython
+xgboost
+
+# Note: d3rlpy and torch may require specific CUDA/toolkit versions depending on your machine.

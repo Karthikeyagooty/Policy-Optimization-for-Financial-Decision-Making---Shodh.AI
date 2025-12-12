@@ -1,0 +1,16 @@
+{
+  "test_auc": 0.7366743544998771,
+  "test_f1": 0.45387495744922274,
+  "best_threshold": 0.26,
+  "config": {
+    "hidden_dims": [
+      512,
+      256
+    ],
+    "dropout": 0.2,
+    "lr": 0.001,
+    "batch_size": 512,
+    "epochs": 10,
+    "patience": 3
+  }
+}

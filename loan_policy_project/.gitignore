@@ -1,0 +1,11 @@
+# Python artifacts
+__pycache__/
+*.pyc
+.venv/
+
+# data
+/data/
+
+# models
+*.pt
+*.joblib
